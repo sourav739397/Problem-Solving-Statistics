@@ -12,6 +12,7 @@
 | LightOJ | [sourav739397](https://lightoj.com/user/sourav739397) | 6 | 
 | Toph | [sourav739397](https://toph.co/u/sourav739397) | 68 |
 | Vjudge | [sourav739397](https://vjudge.net/user/sourav739397) | 29 |
-| Total | | 2586 |
+| SeriousOJ | [sourav739397](https://serious-oj.com/user/1385) | 5 |
+| Total | | 2591 |
 
 Last Updated: 08 January, 2026
